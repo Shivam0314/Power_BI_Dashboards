@@ -1,6 +1,6 @@
 # Power BI Dashboards
 
-E - commerce Sales Dashboard
+E - Commerce Sales Dashboard
 - Created a user-friendly dashboard for keeping an eye on online sales information.
 - Used cool visuals like bar charts, pie charts, donut charts, and others to make the data more interesting.
 - Made it easier for everyone to see and understand the data, helping us make better decisions and plan smarter.

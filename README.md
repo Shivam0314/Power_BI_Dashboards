@@ -8,7 +8,8 @@ E - commerce Sales Dashboard
 - Shared helpful info with our team using awesome, easy-to-read charts and graphs.
 ![E-commerce Sales Dashboard](https://github.com/Shivam0314/Power_BI_Dashboards/assets/103066914/99d0d0c3-70bc-402e-a127-5b7b7dde3db1)
 
-
+<br>
+<br>
 Super Store Sales Dashboard
 - Incorporated data analysis techniques, specializing in time-series analysis.
 - Delivered valuable insights, accurate sales forecasting, and an interactive dashboard.
@@ -16,7 +17,8 @@ Super Store Sales Dashboard
 ![Super Store Sales Dashboard - 1](https://github.com/Shivam0314/Power_BI_Dashboards/assets/103066914/ddb284fe-9808-489d-93a4-179874bd18fb)
 ![Super Store Sales Dashboard - 2](https://github.com/Shivam0314/Power_BI_Dashboards/assets/103066914/8b19c518-cd8d-4f7f-a0d2-0b46d272effa)
 
-
+<br>
+<br>
 HR Analytics Dashboard
 - Worked on a special dashboard to help the company boost how well employees are doing and keep more of them around (reduce leaving).
 - Used smart analytics to figure out ways to improve how employees work and stick around.
